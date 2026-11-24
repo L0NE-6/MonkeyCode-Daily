@@ -6,9 +6,9 @@
 
 **MonkeyCode 중국판 / 국제판 · 다중 계정 일일 체크인 · 단일 Python 파일**
 
-> 버전: **v1.0.0** (2026-11-24)
 
-[简体中文](../README.md) · [English](README.en.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português (BR)](README.pt-BR.md)
+[简体中文](../README.md) · [English](README.en.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · **한국어** · [Português (BR)](README.pt-BR.md)
+> 버전: **v1.0.0** (2026-11-24)
 
 </div>
 

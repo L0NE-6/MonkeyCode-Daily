@@ -3,12 +3,12 @@
 <sub><strong>L0NE-6 · DAILY SIGNAL</strong></sub>
 
 # 🐒 MonkeyCode Daily
+[简体中文](../README.md) · **English** · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português (BR)](README.pt-BR.md)
+> Version: **v1.0.0** (2026-11-24)
 
 **MonkeyCode China / International · multi-account daily check-in · one-file Python**
 
-> Version: **v1.0.0** (2026-11-24)
 
-[简体中文](../README.md) · [English](README.en.md) · [繁體中文](README.zh-Hant.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Português (BR)](README.pt-BR.md)
 
 </div>
 
