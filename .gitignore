@@ -1,0 +1,15 @@
+# Credentials and runtime data
+.env
+*.log
+monkeycode_state.json
+monkeycode_tokens.json
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Local scratch
+tmp/
+.probe/
